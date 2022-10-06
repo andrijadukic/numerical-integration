@@ -1,0 +1,4 @@
+package integration.algorithms;
+
+public abstract class AbstractImplicitLinearSystemIntegrator extends AbstractLinearSystemIntegrator implements ImplicitLinearSystemIntegrator {
+}
